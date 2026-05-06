@@ -18,14 +18,14 @@
 
 <div align="center">
   <a href="https://github.com/renangomesdev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renangomesdev&show_icons=true&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renangomesdev&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=renangomesdev&show_icons=true&theme=dracula&hide=stars"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renangomesdev&theme=dracula&langs_count=6"/>
   </a>
 </div>
 
 ### 💻 Tecnologias
 
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
