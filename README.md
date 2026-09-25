@@ -1,18 +1,15 @@
-## 👋 Olá, me chamo Renan Oliveira! :D
+## 👋 Olá, me chamo Renan Oliveira!
 
 <p>
-  Sou um estudante de Ciência da Computação e futuro Desenvolvedor de Software. Sou apaixonado por usar a lógica para construir soluções e estou em busca da minha primeira oportunidade de estágio para transformar conhecimento em experiência profissional.
+  Estudante de Ciência da Computação e <b>Estagiário em Desenvolvimento de Software no Banco do Nordeste</b>. Atuo no desenvolvimento de soluções backend com foco no ecossistema Java, construção e integração de APIs REST, comunicação entre sistemas corporativos e garantia de confiabilidade por meio de testes automatizados e pipelines de CI/CD.
 </p>
 
-### 🔭 Minha Jornada e Foco Atual
+### 🔭 Atuação e Foco Técnico
 
-- 🎓 Cursando **Ciência da Computação** no **Centro Universitário Farias Brito (FBUNI)**.
-
-- 👨‍💻 Meu foco de estudo principal é em **Java**, aprofundando no paradigma de **Orientação a Objetos**.
-
-- 🌱 Tenho uma base sólida em Lógica de Programação e Algoritmos, construída com a linguagem **C** no primeiro semestre.
-
-- 🛠️ Utilizo **Git** e **GitHub** para versionar meus projetos e construir meu portfólio.
+- 🏦 **Desenvolvimento Backend & Integrações**: Construção de APIs RESTful e integração de sistemas heterogêneos em ambiente financeiro corporativo.
+- 🧪 **Qualidade de Software**: Implementação de testes unitários e de integração com JUnit e Mockito, além de validação de contratos e testes de fluxo com SoapUI.
+- ⚙️ **DevOps & Automação**: Padronização de ambientes com Docker e monitoramento de pipelines de integração contínua via Jenkins.
+- 🎓 **Formação Acadêmica**: Bacharelado em Ciência da Computação no Centro Universitário Farias Brito (FBUNI).
 
 <br>
 
@@ -23,17 +20,31 @@
   </a>
 </div>
 
-### 💻 Tecnologias
+### 💻 Tecnologias & Ferramentas
 
-<div style="display: inline-block"><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+**Backend & Linguagens**
+<div>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 </div>
 
-### 📫 Entre em Contato
+**Qualidade & Testes**
+<div>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
+  <img src="https://img.shields.io/badge/Mockito-C53635?style=for-the-badge&logo=codeforces&logoColor=white" alt="Mock/Mockito"/>
+  <img src="https://img.shields.io/badge/SoapUI-006699?style=for-the-badge&logo=smartbear&logoColor=white" alt="SoapUI"/>
+</div>
+
+**DevOps & Controle de Versão**
+<div>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</div>
+
+### 📫 Conecte-se comigo
 
 <div> 
   <a href="https://www.linkedin.com/in/renan-oliveira-44783b224" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
