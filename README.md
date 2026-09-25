@@ -1,7 +1,11 @@
 ## 👋 Olá, me chamo Renan Oliveira!
 
 <p>
-  Estudante de Ciência da Computação e <b>Estagiário em Desenvolvimento de Software no Banco do Nordeste</b>. Atuo no desenvolvimento de soluções backend com foco no ecossistema Java, construção e integração de APIs REST, comunicação entre sistemas corporativos e garantia de confiabilidade por meio de testes automatizados e esteiras de integração contínua.
+  🎓 Sou estudante de <b>Ciência da Computação</b> no Centro Universitário Farias Brito (FBUNI). Dedico meus estudos aos fundamentos da computação e ao desenvolvimento de software, com foco direcionado ao ecossistema <b>Java</b>, boas práticas de programação orientada a objetos, estruturas de dados e testes automatizados.
+</p>
+
+<p>
+  🏦 Atualmente atuo como <b>Estagiário em Desenvolvimento de Software no Banco do Nordeste</b>. No dia a dia, contribuo na construção e manutenção de APIs REST e na integração entre sistemas corporativos, trabalhando com testes unitários, testes de integração e validação de fluxos (JUnit, Mockito e SoapUI), além de utilizar Docker para padronização de ambientes e acompanhar pipelines no Jenkins.
 </p>
 
 ### 🔭 Atuação e Foco Técnico
