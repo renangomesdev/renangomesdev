@@ -1,94 +1,126 @@
-# 👋 Olá, eu sou Renan Oliveira!
+<h1>👋 Olá, eu sou Renan Oliveira!</h1>
 
-Sou estudante de **Ciência da Computação** e atuo como **estagiário de desenvolvimento de software no Banco do Nordeste**.
+<p>
+  Sou estudante de <strong>Ciência da Computação</strong> e atuo como
+  <strong>estagiário de desenvolvimento de software no Banco do Nordeste</strong>.
+</p>
 
-Atualmente, desenvolvo meus conhecimentos em desenvolvimento back-end com **Java e Spring Boot**, participando da construção e manutenção de aplicações corporativas. Tenho interesse em boas práticas de desenvolvimento, testes automatizados, bancos de dados, integração entre sistemas e qualidade de software.
+<p>
+  Atualmente, desenvolvo meus conhecimentos em desenvolvimento back-end com
+  <strong>Java e Spring Boot</strong>, participando da construção e manutenção
+  de aplicações corporativas. Tenho interesse em boas práticas de desenvolvimento,
+  testes automatizados, bancos de dados, integração entre sistemas e qualidade de software.
+</p>
 
-## 💼 Experiência atual
+<h2>💼 Experiência atual</h2>
 
-### 🏦 Banco do Nordeste
+<h3>🏦 Banco do Nordeste</h3>
 
-**Estagiário de Desenvolvimento de Software**
+<p><strong>Estagiário de Desenvolvimento de Software</strong></p>
 
-- Apoio no desenvolvimento e na manutenção de aplicações back-end.
-- Desenvolvimento com Java e Spring Boot.
-- Utilização de bancos de dados relacionais e consultas SQL.
-- Contato com APIs REST, testes automatizados e integração entre sistemas.
-- Uso de Git e GitHub para versionamento de código.
-- Contato com Docker para execução de ambientes conteinerizados.
-- Acompanhamento de pipelines de integração contínua com Jenkins.
-- Aprendizado contínuo sobre qualidade, segurança e boas práticas de desenvolvimento de software.
+<ul>
+  <li>Apoio no desenvolvimento e na manutenção de aplicações back-end.</li>
+  <li>Desenvolvimento com Java e Spring Boot.</li>
+  <li>Utilização de bancos de dados relacionais e consultas SQL.</li>
+  <li>Contato com APIs REST, testes automatizados e integração entre sistemas.</li>
+  <li>Uso de Git e GitHub para versionamento de código.</li>
+  <li>Contato com Docker para execução de ambientes conteinerizados.</li>
+  <li>Acompanhamento de pipelines de integração contínua com Jenkins.</li>
+  <li>Aprendizado contínuo sobre qualidade, segurança e boas práticas de desenvolvimento de software.</li>
+</ul>
 
-> Por questões de confidencialidade, os projetos e códigos desenvolvidos no ambiente corporativo não são publicados neste perfil.
+<blockquote>
+  Por questões de confidencialidade, os projetos e códigos desenvolvidos no ambiente corporativo não são publicados neste perfil.
+</blockquote>
 
-## 🎓 Formação
+<h2>🎓 Formação</h2>
 
-### Ciência da Computação
+<h3>Ciência da Computação</h3>
 
-**Centro Universitário Farias Brito (FBUNI)**
+<p><strong>Centro Universitário Farias Brito (FBUNI)</strong></p>
 
-Atualmente, estou aprofundando meus conhecimentos em:
+<p>Atualmente, estou aprofundando meus conhecimentos em:</p>
 
-- Estruturas de Dados
-- Programação Orientada a Objetos
-- Engenharia de Software
-- Desenvolvimento back-end
-- Bancos de Dados
-- Testes de Software
+<ul>
+  <li>Estruturas de Dados</li>
+  <li>Programação Orientada a Objetos</li>
+  <li>Engenharia de Software</li>
+  <li>Desenvolvimento back-end</li>
+  <li>Bancos de Dados</li>
+  <li>Testes de Software</li>
+</ul>
 
-## 💻 Tecnologias e ferramentas
+<h2>💻 Tecnologias e ferramentas</h2>
 
-### Back-end
+<h3>Back-end</h3>
 
 <p>
   https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-  https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white
+  https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
 </p>
 
-### Bancos de dados
+<h3>Bancos de dados</h3>
 
 <p>
-  https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-  https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white
+  <img
+    alt="PostgreSQL"
+    src="https://img.shields.io/badgedge&logo=postgresql&logoColor=white
+  <img
+    alt="SQL Server"
+    src="https://img.shields.io/badge/SQL_ogo=microsoftsqlserver&logoColor=white
 </p>
 
-### Desenvolvimento, DevOps e versionamento
+<h3>Desenvolvimento, DevOps e versionamento</h3>
 
 <p>
-  https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-  https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-  https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white
-  https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-  https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white
-  https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+  <img
+    alt="Git"
+    src="https://img.shields.io/badge/Git-F05032?&logoColor=white
+  <img
+    alt="GitHub"
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github="Apache Maven"
+    src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=whiteps://img.shields.io/badge/Docker-=docker&logoColor=white
+  <img
+    alt="Jenkins"
+    src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=   alt="Postman"
+    src="https://img.shields.iothe-badge&logo=postman&logoColor=white
 </p>
 
-### Conhecimentos complementares
+<h3>Conhecimentos complementares</h3>
 
 <p>
-  https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-  <img src="https://img.shields.io/5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-  <img src="https://img.shields.io/badge/JUnit5yle=for-the-badge&logo=junit5&logoColor=white
-</p>
-
-## 📊 Estatísticas do GitHub
+  <img
+    alt="C"
+    src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColorL5"
+    src="https://img.shields.io/badge/HTML5-E34F265&logoColor=white
+  <img
+    alt="JUnit 5"
+    src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=>📊 Estatísticas do GitHub</h2>
 
 <div align="center">
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=renangomesdev&show_icons=true&theme=github_dark&hide_border=true"
-    ps://github-readme-stats.vercel.app/api/top-langs/?username=renangomesdev&layout=compact&theme=github_dark&hide_border=true"
-    alt="Linguagens mais utilizadasor, consolidando meus conhecimentos em desenvolvimento back-end e engenharia de software.
-
-Meu objetivo é contribuir com soluções seguras, testáveis e bem estruturadas, enquanto amplio minha experiência profissional e meus conhecimentos em tecnologias modernas.
-
-## 📫 Entre em contato
+    height="180"
+    alt="Estatísticas do GitHub de Renan Oliveira"
+    src="https://github-readme-stats.vercel.app/api?username=renangomesdev&show_icons=true&theme=github_dark&hide_border=true&localeira"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renangomesdev&layout=<p>
+  Busco evoluir continuamente como desenvolvedor, consolidando meus conhecimentos
+  em desenvolvimento back-end e engenharia de software.
+</p>
 
 <p>
-  <a href="https://www.linkedinenan-oliveira-44783b224/
-    <img src="https://img.shields.io/badge/077B5?style=for-the-badge&logo=linkedin&logoColor=white
+  Meu objetivo é contribuir com soluções seguras, testáveis e bem estruturadas,
+  enquanto amplio minha experiência profissional e meus conhecimentos em tecnologias modernas.
+</p>
+
+<h2>📫 Entre em contato</h2>
+
+<p>
+  <a ps://www.linkedin.com/in/renan-oliveira-44783b224/
+    <img
+      alt="LinkedIn"
+      src="https://img.shields.io/badge/LinkedInedin&logoColor=white
   </a>
-  <a href="eira1907@hotmail.com
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo-outlook&logoColor=white
+  <a href="mailto:renanoliveira1907 <img
+      alt="Microsoftdge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white
   </a>
 </p>
