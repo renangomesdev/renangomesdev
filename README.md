@@ -52,7 +52,7 @@
 <div align="center">
   <a href="https://github.com/renangomesdev">
     <img height="150em" src="https://github-readme-stats-kappa-cyan-73.vercel.app/api?username=renangomesdev&show_icons=true&theme=dracula&hide_rank=true&hide=issues,prs,contribs" alt="Estatísticas de Renan" />
-    <img height="150em" src="https://github-readme-stats-kappa-cyan-73.vercel.app/api/top-langs/?username=renangomesdev&theme=dracula&layout=compact&langs_count=6" alt="Linguagens mais usadas" />
+    <img height="150em" src="https://github-readme-stats-kappa-cyan-73.vercel.app/api/top-langs/?username=renangomesdev&theme=dracula&layout=compact&langs_count=6&hide=typescript" alt="Linguagens mais usadas" />
   </a>
 </div>
 
